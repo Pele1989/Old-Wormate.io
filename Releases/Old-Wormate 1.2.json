@@ -1,0 +1,74 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2020-12-06T18:47:32.083Z",
+    "redirects": [
+        {
+            "description": "Old Wormate Abilities",
+            "exampleUrl": "https://resources.wormate.io/static/assets/images/61000_abilities.png",
+            "exampleResult": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/Old%20Wormate%20Abilites.png",
+            "error": null,
+            "includePattern": "https://resources.wormate.io/static/assets/images/61000_abilities.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/Old%20Wormate%20Abilites.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "Wormate Potions",
+            "exampleUrl": "https://resources.wormate.io/static/assets/images/75000_portions.png",
+            "exampleResult": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/New%20Wormate%20Portions%20with%20potions_V5.png",
+            "error": null,
+            "includePattern": "https://resources.wormate.io/static/assets/images/75000_portions.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/New%20Wormate%20Portions%20with%20potions_V5.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "No Visible Magnetic and speed",
+            "exampleUrl": "https://wormate.io/images/wear-ability.png",
+            "exampleResult": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/Blank.png",
+            "error": null,
+            "includePattern": "https://wormate.io/images/wear-ability.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/Blank.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "Old Wormate Background",
+            "exampleUrl": "https://wormate.io/images/bg-pattern-pow2-ARENA.png",
+            "exampleResult": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/oldbg.png",
+            "error": null,
+            "includePattern": "https://wormate.io/images/bg-pattern-pow2-ARENA.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/Images/oldbg.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        }
+    ]
+}
