@@ -1,0 +1,74 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2020-12-03T20:21:51.931Z",
+    "redirects": [
+        {
+            "description": "Old Wormate Abilities",
+            "exampleUrl": "https://resources.wormate.io/static/assets/images/61000_abilities.png",
+            "exampleResult": "https://download936.mediafire.com/fm9fsj2danzg/dus6n0k37wpdzpl/Old+Wormate+Abilites.png",
+            "error": null,
+            "includePattern": "https://resources.wormate.io/static/assets/images/61000_abilities.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://download936.mediafire.com/fm9fsj2danzg/dus6n0k37wpdzpl/Old+Wormate+Abilites.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "Wormate Potions",
+            "exampleUrl": "https://resources.wormate.io/static/assets/images/74000_portions.png",
+            "exampleResult": "https://download1510.mediafire.com/9dlput8eqyhg/niwp74fisglye8v/New+Wormate+Portions+with+potions_V4.png",
+            "error": null,
+            "includePattern": "https://resources.wormate.io/static/assets/images/74000_portions.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://download1510.mediafire.com/9dlput8eqyhg/niwp74fisglye8v/New+Wormate+Portions+with+potions_V4.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "No Visible Magnetic and speed",
+            "exampleUrl": "https://wormate.io/images/wear-ability.png",
+            "exampleResult": "https://download1640.mediafire.com/cubvnyyvbelg/wi8gsqlza3fisml/Blank.png",
+            "error": null,
+            "includePattern": "https://wormate.io/images/wear-ability.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://download1640.mediafire.com/cubvnyyvbelg/wi8gsqlza3fisml/Blank.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "Old Wormate Background",
+            "exampleUrl": "https://wormate.io/images/bg-pattern-pow2-ARENA.png",
+            "exampleResult": "https://download849.mediafire.com/hrudsq267mcg/hba1mzhqsso225b/oldbg.png",
+            "error": null,
+            "includePattern": "https://wormate.io/images/bg-pattern-pow2-ARENA.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://download849.mediafire.com/hrudsq267mcg/hba1mzhqsso225b/oldbg.png",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        }
+    ]
+}
