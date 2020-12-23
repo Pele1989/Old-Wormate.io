@@ -14,5 +14,3 @@ https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfak
 4. You can disable anything you don't like if you want by clicking disable on any of the attributes.
 
 5. Enjoy
-
-![1 3](https://user-images.githubusercontent.com/75582409/103038852-14d4b680-4535-11eb-8fa1-099a76ee30e2.png)
