@@ -14,5 +14,3 @@ https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfak
 4. You can disable anything you don't like if you want by clicking disable on any of the attributes.
 
 5. Enjoy
-
-https://raw.githubusercontent.com/Daboss7173/Old-Wormate.io/main/1.3.png
