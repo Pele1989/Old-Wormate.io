@@ -1,4 +1,4 @@
-# Old-Wormate.io
+# Old Wormate.io
 My goal is to make Wormate look and feel how it did in the old days
 
 Here is how to make Wormate look like how it did in the old days.
@@ -11,6 +11,6 @@ https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfak
 
 3. Click on the Redirector extention and click edit redirects. Now click import and choose the file you just downloaded.
 
-4. You can disable or enable anything you don't like if you want by clicking disable on any of the attributes.
+4. You can disable or enable anything you don't like if you want by clicking disable on any of the options.
 
 5. Enjoy
