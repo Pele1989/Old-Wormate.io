@@ -11,6 +11,6 @@ https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfak
 
 3. Click on the Redirector extention and click edit redirects. Now click import and choose the file you just downloaded.
 
-4. You can disable anything you don't like if you want by clicking disable on any of the attributes.
+4. You can disable or enable anything you don't like if you want by clicking disable on any of the attributes.
 
 5. Enjoy
