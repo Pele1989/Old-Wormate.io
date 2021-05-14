@@ -14,3 +14,7 @@ https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfak
 4. You can disable or enable anything you don't like if you want by clicking disable on any of the options.
 
 5. Enjoy
+
+
+
+This may be a bit outdated as of may 2021
